@@ -1,3 +1,3 @@
 class Blog < ActiveRecord::Base
-  acts_as_copy_target
+  # acts_as_copy_target
 end
